@@ -1,1 +1,1 @@
-# Real-Time-Handwritten-Digit-Recognition
+# mini-project
